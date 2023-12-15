@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377757717806",
+    "firebase_url": "https://mini-porjet-default-rtdb.firebaseio.com",
+    "project_id": "mini-porjet",
+    "storage_bucket": "mini-porjet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377757717806:android:58269fb70d0c0bd7d456bf",
+        "android_client_info": {
+          "package_name": "com.example.mini_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPVD5I1n3Rn18pkiO1MzXGTRAORWdf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
